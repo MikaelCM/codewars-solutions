@@ -7,4 +7,13 @@ Este repositório contém minhas soluções para desafios (`katas`) da plataform
 ## Estrutura
 
 ```bash
-code
+codewars-solutions/
+└── javascript/
+    ├── kyu6/
+    │   ├── highest-scoring-word.js
+    │   ├── duplicate-encoder.js
+    │   └── ...
+    ├── kyu7/
+    │   ├── find-next-perfect-square.js
+    │   └── ...
+    └── README.md

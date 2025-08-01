@@ -20,6 +20,7 @@ codewars-solutions/
 ```
 - `kyu6/` → Desafios de nível intermediário a avançado
 - `kyu7/` → Desafios de nível básico a intermediário
+- `kyu8/` → Desafios de nível básico
 
 ---
 

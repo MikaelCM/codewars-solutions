@@ -29,6 +29,7 @@ codewars-solutions/
 Cada arquivo contém:
 
 - ✅ O nome do desafio
+- 🔗 O link para o kata no Codewars
 - 🧠 A minha solução
 
 ## 🛠️ Tecnologias

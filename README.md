@@ -18,8 +18,8 @@ codewars-solutions/
     │   └── ...
     └── README.md
 ```
-- `kyu5/` → Desafios avançados, exigem boa lógica, conhecimento de algoritmos, estruturas de dados (listas, árvores, grafos), programação funcional, recursão, regex complexas etc.
-- `kyu7/ e kyu6/` → Desafios de nível intermediário, já pedem mais raciocínio, estruturas de dados simples, loops aninhados, arrays, strings etc.
+- `kyu5/` → Desafios avançados que exigem boa lógica, conhecimento de algoritmos, estruturas de dados (listas, árvores, grafos), programação funcional, recursão, regex complexas etc.
+- `kyu7/ e kyu6/` → Desafios de nível intermediário que já pedem mais raciocínio, estruturas de dados simples, loops aninhados, arrays, strings etc.
 - `kyu8/` → Desafios de nível básico com exercícios básicos de lógica e sintaxe.
 
 ---

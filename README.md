@@ -52,7 +52,7 @@ Este repositório serve como:
 
 Se quiser trocar uma ideia sobre algoritmos, dev ou tecnologia em geral:
 
-[Email](mikael.c.mendes@gmail.com)
+mikael.c.mendes@gmail.com
 
 ---
 

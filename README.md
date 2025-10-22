@@ -34,7 +34,7 @@ Cada arquivo contém:
 
 ## Tecnologias
 
-- **Linguagem:** JavaScript
+- **Linguagens:** JavaScript e TypeScript
 - **Editor:** VSCode
 - **Plataforma de desafios:** [Codewars](https://www.codewars.com)
 

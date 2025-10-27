@@ -1,4 +1,8 @@
-function isValidWalk(walk: string[]): boolean {
+// Link: https://www.codewars.com/kata/54da539698b8a2ad76000228
+
+export function isValidWalk(walk: string[]): boolean {
+    if (walk.length !== 10) return false;
+  
     let x: number = 0;
     let y: number = 0;
 

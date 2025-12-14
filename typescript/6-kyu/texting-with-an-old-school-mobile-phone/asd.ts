@@ -1,3 +1,5 @@
+// Link: https://www.codewars.com/kata/5ca24526b534ce0018a137b5
+
 export function sendMessage(message: string) {
 
     const numbers: Record<string, string> = {
@@ -93,5 +95,6 @@ export function sendMessage(message: string) {
     // Uniting the results
     return storage.join("");
 }
+
 
 console.log(sendMessage("Def Con 1!"));

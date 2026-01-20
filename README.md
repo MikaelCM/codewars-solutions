@@ -6,7 +6,7 @@ Este repositório contém minhas soluções para desafios (`katas`) da plataform
 
 ## Estrutura
 
-```bash
+```
 codewars-solutions/
 └── javascript/
     ├── kyu6/

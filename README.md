@@ -56,4 +56,4 @@ mikael.c.mendes@gmail.com
 
 ---
 
-**Obrigado por visitar!** :D
+**Obrigado por visitar!**
